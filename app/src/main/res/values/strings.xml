@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CalculatorLauncher</string>
+    <string name="key_start">Start Calculations</string>
 </resources>
